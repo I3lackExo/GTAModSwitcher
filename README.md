@@ -21,7 +21,7 @@ This program is made for Story Mode mods (Scripthook V mods), not for any online
 System Requirement
 - Microsoft .NET Framework 4.8
 
-For any support: xӾ-Ⱡᵾłƶ₴ɇȼ₵𝟒ŧ-Ӿx#1337
+For any support: theskillcat@gmail.com
 
 Credits
 - Th3Sk1llC4tHD
