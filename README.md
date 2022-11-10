@@ -25,7 +25,6 @@ For any support: xӾ-Ⱡᵾłƶ₴ɇȼ₵𝟒ŧ-Ӿx#1337
 
 Credits
 - Th3Sk1llC4tHD
-- OVERLOADED
 
 Changelog 1.0.1
 - Included Error Detection
